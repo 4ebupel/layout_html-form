@@ -1,1 +1,33 @@
 /* styles go here */
+.form__field {
+  display: block;
+  margin: 10px 0 0;
+}
+
+.form__fildset {
+  margin-top: 20px;
+}
+
+.form__radiobutton {
+  margin-left: 10px;
+}
+
+#firstTop {
+  margin-top: 0;
+}
+
+#secondTop {
+  margin-top: 0;
+}
+
+#fourthTop {
+  margin-top: 0;
+}
+
+#submitButton {
+  margin: 20px 0;
+}
+
+#firstTopSet {
+  margin-top: 0;
+}
