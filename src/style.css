@@ -12,22 +12,10 @@
   margin-left: 10px;
 }
 
-#firstTop {
+.top {
   margin-top: 0;
 }
 
-#secondTop {
-  margin-top: 0;
-}
-
-#fourthTop {
-  margin-top: 0;
-}
-
-#submitButton {
+.submitButton {
   margin: 20px 0;
-}
-
-#firstTopSet {
-  margin-top: 0;
 }
